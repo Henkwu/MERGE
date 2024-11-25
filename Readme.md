@@ -1,1 +1,1 @@
-
+python ours_train_Chest_text_vision_2class.py
